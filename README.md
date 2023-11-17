@@ -302,6 +302,7 @@ berbeda-beda sesuai pilihan pekerjaan.
 </html>
 ```
 
-https://github.com/AzwaDipani/Lab7Web/assets/115677539/eed74178-1c87-40f7-81cd-17bd0f30e883
+https://github.com/AzwaDipani/Lab7Web/assets/115677539/b05ee0ed-3149-4552-ae15-3f6963635e42
+
 
 ## Sekian, Terima Kasih 
